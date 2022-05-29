@@ -11,3 +11,6 @@ Here the aim is to build a machine learning model which can predict whether a fr
 4. Open the [Model Jupyter Notebook](https://github.com/anishakode/fraud_detection/blob/main/Model.ipynb).
 5. Run this notebook.
 6. View results
+
+## Here is the Report of the business idea
+[Report - PDF](https://github.com/anishakode/fraud_detection/blob/main/Fraud%20Detection%20using%20Machine%20Learning.pdf)
